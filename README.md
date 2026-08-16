@@ -36,14 +36,6 @@ Built a web application (with a team) using Streamlit, Python, and SQL to help N
 
 ---
 
-### GitHub Stats
-
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=[vinay-goenka]&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-goenka&layout=compact&hide_border=true)
-
----
-
 ### Hobbies
 Basketball · Table Tennis · Cricket · Hiking · Music · Traveling
 

@@ -17,7 +17,7 @@ I'm currently building projects with **Python, SQL, Pandas, Scikit-learn, and St
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Interests:** Data Analysis · Machine Learning · Predictive Analytics · FinTech
+**Interests:** Python · pandas · streamlit · ML (KNN Classifier & Random Forest)
 
 ---
 
@@ -39,6 +39,11 @@ Built a web application (with a team) using Streamlit, Python, and SQL to help N
 ### GitHub Stats
 
 ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay-goenka&show_icons=true&hide_border=true)
+
+---
+
+### Hobbies
+Basketball · Table Tennis · Cricket · Hiking · Music · Traveling
 
 ---
 

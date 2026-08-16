@@ -32,8 +32,6 @@ Built a Streamlit dashboard using Random Forest to predict construction project 
 **HuskyBuddy**  
 Built a web application (with a team) using Streamlit, Python, and SQL to help Northeastern students manage student-related activities and information, including user accounts, bookings, and moderation.
 
-> Check out my repositories to see what I'm currently building.
-
 ---
 
 ### Hobbies

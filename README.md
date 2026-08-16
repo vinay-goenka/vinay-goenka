@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Vinay 👋
+
+Student at Northeastern University, majoring in Finance and Data Science
+Currently learning: Python (pandas), SQL, data analysis, ML, and streamlit
+Really interested in machine learning at the moment (used KNN Classifier and Random Forest)
+View my projects in my GitHub or on vinaygoenka.com
+Reach me at: goenka.v@northeastern.edu, https://www.linkedin.com/in/vinay-goenka/
+
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)

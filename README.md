@@ -1,25 +1,49 @@
-## Hi there 👋
-
-<!--
-**vinay-goenka/vinay-goenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi, I'm Vinay 👋
 
-Student at Northeastern University, majoring in Finance and Data Science
-Currently learning: Python (pandas), SQL, data analysis, ML, and streamlit
-Really interested in machine learning at the moment (used KNN Classifier and Random Forest)
-View my projects in my GitHub or on vinaygoenka.com
-Reach me at: goenka.v@northeastern.edu, https://www.linkedin.com/in/vinay-goenka/
+### Data Science & Finance @ Northeastern University
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+I'm a student at **Northeastern University** studying Finance and Data Science, interested in using data, machine learning, and technology to solve real-world business problems.
+
+I'm currently building projects with **Python, SQL, Pandas, Scikit-learn, and Streamlit**, with a particular interest in **machine learning and predictive analytics**.
+
+---
+
+### Tech & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Interests:** Data Analysis · Machine Learning · Predictive Analytics · FinTech
+
+---
+
+### Featured Projects
+
+**What Makes a Popular Song?**  
+Analyzed Spotify data using statistical analysis and machine learning to investigate which audio features are associated with popular songs. Built KNN classification models and evaluated differences across artists.
+
+**Construction Risk Prediction Dashboard**  
+Built a Streamlit dashboard using Random Forest to predict construction project delays and identify key risk factors. Incorporated SHAP explainability and scenario-based recommendations.
+
+**HuskyBuddy**  
+Built a web application (with a team) using Streamlit, Python, and SQL to help Northeastern students manage student-related activities and information, including user accounts, bookings, and moderation.
+
+> Check out my repositories to see what I'm currently building.
+
+---
+
+### GitHub Stats
+
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay-goenka&show_icons=true&hide_border=true)
+
+---
+
+### Find Me
+
+**Website:** [vinaygoenka.com](https://vinaygoenka.com)  
+**LinkedIn:** [linkedin.com/in/vinay-goenka](https://linkedin.com/in/vinay-goenka)  
+**Email:** goenka.v@northeastern.edu

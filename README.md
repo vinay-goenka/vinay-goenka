@@ -1,15 +1,11 @@
 # Hi, I'm Vinay 👋
-
 ### Data Science & Finance @ Northeastern University
 
-I'm a student at **Northeastern University** studying Finance and Data Science, interested in using data, machine learning, and technology to solve real-world business problems.
-
-I'm currently building projects with **Python, SQL, Pandas, Scikit-learn, and Streamlit**, with a particular interest in **machine learning and predictive analytics**.
+I'm a student at Northeastern University studying Finance and Data Science, interested in using data, machine learning, and technology to solve real-world business problems. I build projects with Python, SQL, Pandas, Scikit-learn, and Streamlit, with a particular interest in machine learning and predictive analytics.
 
 ---
 
 ### Tech & Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -17,30 +13,32 @@ I'm currently building projects with **Python, SQL, Pandas, Scikit-learn, and St
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Interests:** Python · pandas · streamlit · ML (KNN Classifier & Random Forest)
-
 ---
 
 ### Featured Projects
 
-**What Makes a Popular Song?**  
+**What Makes a Popular Song?**
 Analyzed Spotify data using statistical analysis and machine learning to investigate which audio features are associated with popular songs. Built KNN classification models and evaluated differences across artists.
 
-**Construction Risk Prediction Dashboard**  
+**Construction Risk Prediction Dashboard**
 Built a Streamlit dashboard using Random Forest to predict construction project delays and identify key risk factors. Incorporated SHAP explainability and scenario-based recommendations.
 
-**HuskyBuddy**  
+**HuskyBuddy**
 Built a web application (with a team) using Streamlit, Python, and SQL to help Northeastern students manage student-related activities and information, including user accounts, bookings, and moderation.
 
 ---
 
-### Hobbies
+### GitHub Stats
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+---
+
+### When I'm Not Coding
 Basketball · Table Tennis · Cricket · Hiking · Music · Traveling
 
 ---
 
 ### Find Me
-
-**Website:** [vinaygoenka.com](https://vinaygoenka.com)  
-**LinkedIn:** [linkedin.com/in/vinay-goenka](https://linkedin.com/in/vinay-goenka)  
-**Email:** goenka.v@northeastern.edu
+[![Website](https://img.shields.io/badge/Website-vinaygoenka.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://vinaygoenka.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinay--goenka-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-goenka)
+[![Email](https://img.shields.io/badge/Email-goenka.v%40northeastern.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:goenka.v@northeastern.edu)

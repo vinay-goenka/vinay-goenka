@@ -29,7 +29,7 @@ Built a web application (with a team) using Streamlit, Python, and SQL to help N
 ---
 
 ### GitHub Stats
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay-goenka&show_icons=true&theme=default)
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vg1000&show_icons=true&theme=default)
 
 ---
 

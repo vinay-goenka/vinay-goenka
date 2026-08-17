@@ -28,15 +28,13 @@ Built a web application (with a team) using Streamlit, Python, and SQL to help N
 
 ---
 
-### GitHub Stats
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vg1000&show_icons=true&theme=default)
-
----
-
 ### When I'm Not Coding
 Basketball · Table Tennis · Cricket · Hiking · Music · Traveling
 
 ---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%26+Finance+%40+Northeastern;Building+with+Python%2C+SQL%2C+ML;Always+learning+something+new)
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
 
 ### Find Me
 [![Website](https://img.shields.io/badge/Website-vinaygoenka.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://vinaygoenka.com)

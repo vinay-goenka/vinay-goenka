@@ -36,5 +36,4 @@ Basketball · Table Tennis · Cricket · Hiking · Music · Traveling
 ### Find Me
 [![Website](https://img.shields.io/badge/Website-vinaygoenka.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://vinaygoenka.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinay--goenka-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-goenka)
-[![University Email](https://img.shields.io/badge/Email-goenka.v%40northeastern.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:goenka.v@northeastern.edu)
-[![Personal Email](https://img.shields.io/badge/Email-vinay.goenka000%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinay.goenka000@gmail.com)
+[![Email](https://img.shields.io/badge/Email-goenka.v%40northeastern.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:goenka.v@northeastern.edu)

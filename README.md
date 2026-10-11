@@ -17,19 +17,19 @@ I'm a student at Northeastern University studying Finance and Data Science, inte
 
 ### Featured Projects
 
-**Construction Risk Prediction Dashboard**
+**Construction Risk Prediction Dashboard for Innovo Group:**
 Built a Streamlit dashboard using Random Forest to predict construction project delays and identify key risk factors. Incorporated SHAP explainability and scenario-based recommendations.
 
-**HuskyBuddy**
+**HuskyBuddy for Database Design (CS3200):**
 Built a web application (with a team) using Streamlit, Python, and SQL to help Northeastern students manage student-related activities and information, including user accounts, bookings, and moderation.
 
-**What Makes a Popular Song?**
+**What Makes a Popular Song for DS2500:**
 Analyzed Spotify data using statistical analysis and machine learning to investigate which audio features are associated with popular songs. Built KNN classification models and evaluated differences across artists.
 
 ---
 
 ### When I'm Not Coding
-Basketball · Table Tennis · Cricket · Hiking · Music · Traveling
+Basketball · Table Tennis · Cricket · Hiking · Music/Music Production · Traveling · Dragon Ball · Movies (Iron Man series is my favorite!)
 
 ---
 

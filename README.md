@@ -17,14 +17,14 @@ I'm a student at Northeastern University studying Finance and Data Science, inte
 
 ### Featured Projects
 
-**What Makes a Popular Song?**
-Analyzed Spotify data using statistical analysis and machine learning to investigate which audio features are associated with popular songs. Built KNN classification models and evaluated differences across artists.
-
 **Construction Risk Prediction Dashboard**
 Built a Streamlit dashboard using Random Forest to predict construction project delays and identify key risk factors. Incorporated SHAP explainability and scenario-based recommendations.
 
 **HuskyBuddy**
 Built a web application (with a team) using Streamlit, Python, and SQL to help Northeastern students manage student-related activities and information, including user accounts, bookings, and moderation.
+
+**What Makes a Popular Song?**
+Analyzed Spotify data using statistical analysis and machine learning to investigate which audio features are associated with popular songs. Built KNN classification models and evaluated differences across artists.
 
 ---
 
